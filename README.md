@@ -20,6 +20,8 @@ En tercer lugar, con la base de datos instalada, generamos las tablas (imagen 1)
 ## **Esquema de la base de datos** ##
 A continuación vemos con detalle tanto todas las tablas que hay (imagen1_tablas) en la base de datos como la relación que hay entre ella (imagen2_esquema)
 
+- Imagen1_tablas
 ![Imagen tablas](./Imagen/Imagen1_tablas.png)
 
+- Imagen2_esquema
 ![Imagen esquema](./Imagen/Imagen2_esquema.png)
